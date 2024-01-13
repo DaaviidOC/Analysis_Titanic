@@ -1,6 +1,6 @@
 <h1>Titanic Dataset Analysis</h1> </br>
 
-<p>This project showcases a Data Analyst exercise completed during my training at Upgrade Hub. It focuses on the exploration of the Titanic dataset, focusing on the factors that could have affected the survival of the passengers..</p>
+<p>This project showcases a Data Analyst exercise completed during my training at Upgrade Hub. It focuses on the exploration of the Titanic dataset, focusing on the factors that could have affected the survival of the passengers.</p>
  
 [Upgrade Hub](https://www.upgrade-hub.com/) is an educational institution dedicated to offering high-quality training programs in technology and data science. </br>
 
