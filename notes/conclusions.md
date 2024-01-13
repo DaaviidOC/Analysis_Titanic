@@ -1,7 +1,7 @@
 # Conclusions and Insights from the Titanic Dataset Analysis Project
 
 ## Project Overview
-This project involves an in-depth analysis of the passengers of the Titanic. The main objective of this analysis is to unravel the characteristics and factors that influenced the survival probabilities of the passengers during this tragic event.
+This project involves an in-depth analysis of the passengers of the Titanic. The main objective of this analysis is to unravel the characteristics and factors that influenced the survival probabilities of the passengers during this tragic event. This analysis consists of 3 parts: Review of the raw data, data cleaning and preprocessing, and a final analysis of the processed data.
 
 ## Data Source
 The analysis is grounded in a comprehensive dataset that includes various key attributes such as the name of the passengers, their age, pier, ticket price, cabin class and most crucially, whether they survived or not.
