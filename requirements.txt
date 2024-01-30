@@ -14,17 +14,5 @@ scipy
 ortools
 
 # APIs y scripts
-wandb
 streamlit
-windows-curses
-Flask
-gunicorn
-pyyaml
-fire
 
-# Miscelánea
-yfinance
-geopandas
-chart-studio
-nltk
-kaggle
