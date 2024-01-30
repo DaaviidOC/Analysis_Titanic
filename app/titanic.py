@@ -160,7 +160,7 @@ if uploaded_file is not None:
     with col4: 
         # Heatmap
         st.write("Heatmap")
-        corr_matrix = data.corr()
+        corr_matrix = numeric_data.corr()
         fig_corr = px.imshow(corr_matrix, x = corr_matrix.columns, y=corr_matrix.columns)
         st.plotly_chart(fig_corr)
     
