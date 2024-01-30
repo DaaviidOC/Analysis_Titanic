@@ -148,7 +148,7 @@ if uploaded_file is not None:
         st.write(data.select_dtypes(include="object").describe())
     
     with col3:
-        st.write("corr")
+        st.write("Correlación")
         corr_matrix = data.corr()
         st.write(corr_matrix)
         
