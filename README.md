@@ -7,8 +7,9 @@
 
 ## Project Contents
 The project comprises three main components: </br>
-- Data File (CSV): This file contains all the data used in the analysis. It stores data about passengers with attributes such as age, gender, ticket, landing stage, cabin class and most crucially, whether they survived or not. </br>
+- Data Files (CSV): This files contains all the data used in the analysis. It stores data about passengers with attributes such as age, gender, ticket, landing stage, cabin class and most crucially, whether they survived or not. </br>
 - Jupyter Notebook: Here, you'll find the detailed analysis, including data processing, exploratory analysis, and visualization. The notebook is structured to guide you through each step of the analysis, with comments and explanations. </br>
+- Python Script: [Script](https://titanicpy-ejuerwdjjz89ftgfqioyhl.streamlit.app/) that stores the Streamlit application.
 - Conclusions: This document summarizes the key findings and insights derived from the data. It includes interpretations of the visualizations and the conclusions drawn from the analysis. </br>
 
 
