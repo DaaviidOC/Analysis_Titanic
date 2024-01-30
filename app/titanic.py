@@ -148,9 +148,9 @@ if uploaded_file is not None:
         st.write(data.select_dtypes(include="object").describe())
     
     with col3:
-        st.write("Correlación")
+        st.write("corr")
         corr_matrix = data.corr()
-        st.write(corr_matrix.style.set_table_styles([{'selector': 'th, td', 'props': [('text-align', 'center')]}]), unsafe_allow_html=True)
+        st.write(corr_matrix)
         
     st.markdown("<br>", unsafe_allow_html=True)
     
