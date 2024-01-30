@@ -151,7 +151,6 @@ if uploaded_file is not None:
         st.write("Correlación")
         numeric_data = data.select_dtypes(include=[np.number])
         corr_matrix = numeric_data.corr()
-        corr_matrix = data.corr()
         st.write(corr_matrix)
         
     st.markdown("<br>", unsafe_allow_html=True)
