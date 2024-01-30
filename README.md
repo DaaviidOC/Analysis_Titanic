@@ -12,7 +12,7 @@ The project comprises three main components: </br>
 - Python Script: [Script](https://titanicpy-ejuerwdjjz89ftgfqioyhl.streamlit.app/) that stores the Streamlit application.
 - Conclusions: This document summarizes the key findings and insights derived from the data. It includes interpretations of the visualizations and the conclusions drawn from the analysis. </br>
 
-
+<a href="https://titanicpy-ejuerwdjjz89ftgfqioyhl.streamlit.app/" target="_blank">Script</a>
 ## Contributions
 
 We welcome contributions to this repository. If you're interested in contributing, please adhere to the following guidelines:  </br>
