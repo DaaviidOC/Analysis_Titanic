@@ -10,6 +10,7 @@ The project comprises three main components: </br>
 - Data Files (CSV): This files contains all the data used in the analysis. It stores data about passengers with attributes such as age, gender, ticket, landing stage, cabin class and most crucially, whether they survived or not. </br>
 - Jupyter Notebook: Here, you'll find the detailed analysis, including data processing, exploratory analysis, and visualization. The notebook is structured to guide you through each step of the analysis, with comments and explanations. </br>
 - Python Script: [Script](https://titanicpy-ejuerwdjjz89ftgfqioyhl.streamlit.app/) that stores the Streamlit application.
+- [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTRiNmI2YmItNDVjMy00MTM3LTljZWMtZmVkMWU3ZDNmMzBmIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9): Here you will find the Power BI dashboard for our Titanic dataset. 
 - Conclusions: This document summarizes the key findings and insights derived from the data. It includes interpretations of the visualizations and the conclusions drawn from the analysis. </br>
 
 
