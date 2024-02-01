@@ -1,0 +1,3 @@
+Streamlit: https://titanicpy-ejuerwdjjz89ftgfqioyhl.streamlit.app/
+
+Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTRiNmI2YmItNDVjMy00MTM3LTljZWMtZmVkMWU3ZDNmMzBmIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9
