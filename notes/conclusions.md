@@ -7,7 +7,7 @@ This project involves an in-depth analysis of the passengers of the Titanic. The
 The analysis is grounded in a comprehensive dataset that includes various key attributes such as the name of the passengers, their age, pier, ticket price, cabin class and most crucially, whether they survived or not.
 
 ## Tools used
-For data analysis and visualization, the notebook employs Python libraries including Matplotlib, Seaborn, Plotly, and Pandas.
+For data analysis and visualization, the notebook employs Python libraries including Numpy, Matplotlib, Seaborn, Plotly, and Pandas. For the Streamlit script, scipy.stats has also been utilized. Finally, we used Microsoft Power BI to create our interactive dashboard.
 
 ## Key Findings and Insights
 Overall analysis: The analysis revealed significant trends in survival rates based on several factors:
